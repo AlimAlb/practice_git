@@ -18,4 +18,4 @@ def func_4(a,b,c):
 
 
 def func_5(a,b,c):
-    print(a+b+c)
+    print("Never gonna give you up!")
