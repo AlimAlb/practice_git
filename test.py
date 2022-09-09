@@ -26,4 +26,5 @@ def func_5():
     print("Never gonna give you up!")
 
 def func_6(a,c):
+    #llmmffdd
     print(a * c + 3)
