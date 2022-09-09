@@ -1,11 +1,6 @@
 ﻿#изменения которые ты должен забрать с сервера
 #not needed
 
-def func_1(a,b,c):
-    k = a + b + c
-    print(k)
-
-
 def func_2(a,b,c):
     k = a + b + c + 'qwqwqweqweq'
     print(b)
