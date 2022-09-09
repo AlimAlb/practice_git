@@ -1,7 +1,5 @@
 ﻿#изменения которые ты должен забрать с сервера
-
-def new_func(a):
-    print('new func')
+#not needed
 
 def func_1(a,b,c):
     k = a + b + c
