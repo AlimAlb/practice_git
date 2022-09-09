@@ -1,4 +1,4 @@
-#изменения которые ты должен забрать с сервера
+﻿#изменения которые ты должен забрать с сервера
 
 def new_func(a):
     print('new func')
@@ -28,3 +28,6 @@ def func_5():
 def func_6(a,c):
     #llmmffdd
     print(a * c + 3)
+
+def new_func_1(a):
+    print('Sulumbek')
