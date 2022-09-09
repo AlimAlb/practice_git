@@ -17,5 +17,8 @@ def func_4(a,b,c):
     print()
 
 
-def func_5(a,b,c):
+def func_5():
     print("Never gonna give you up!")
+
+def func_6(a,c):
+    print(a * c + 3)
