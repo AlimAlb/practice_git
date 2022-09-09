@@ -3,6 +3,7 @@
 
 def func_1(a,b,c):
     k = a + b + c
+    print('Alim')
     print(k)
 
 
