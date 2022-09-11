@@ -1,6 +1,8 @@
 ﻿#изменения которые ты должен забрать с сервера
 #not needed
 
+#a minor changes
+
 def func_1(a,b,c):
     k = a + b + c
     print('Alim')
